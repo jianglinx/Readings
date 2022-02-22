@@ -10,6 +10,8 @@
 #### 《Word Power Made Easy》
 #### 《The New Cambridge Modern/Medieval History》
 #### 《Critique of Pure Reason》 by Kant
+#### 《very short introduction - logic》
+#### 《简明逻辑学》
 
 ## Unscheduled
 #### 《Eye of Hurricane - an autobiography of Richard Bellman》
