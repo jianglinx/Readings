@@ -5,6 +5,14 @@
   ```
 
 ### To Read
+#### CS
+  ```
+  1. Clean Architecture A Craftsman's Guide to Software Structure and Design
+  2. The Little Schemer
+  3. Introduction to Information Retrieval
+  4. Operations research
+  ```
+#### non CS
   ```
   1. Maurice by Forster EM
   2. The Stranger
@@ -15,6 +23,7 @@
   7. The Seed And The Sow
   8. Biography of Hugh Grant
   9. The Second Sex by Beauvoir
+  10. GEB
   ```
 ### Already Read
   ```
