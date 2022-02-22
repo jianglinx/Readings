@@ -11,19 +11,21 @@
   2. The Little Schemer
   3. Introduction to Information Retrieval
   4. Operations research
+  5. GEB
   ```
 #### non CS
   ```
   1. Maurice by Forster EM
-  2. The Stranger
-  3. Word Power Made Easy
-  4. The New Cambridge Modern/Medieval History
-  5. Critique of Pure Reason by Kant
-  6. very short introduction - logic by Graham Priest
-  7. The Seed And The Sow
-  8. Biography of Hugh Grant
-  9. The Second Sex by Beauvoir
-  10. GEB
+  2. The Seed And The Sow
+  3. The Stranger
+  4. Biography of Hugh Grant
+  5. The Second Sex by Beauvoir
+  
+  6. Word Power Made Easy
+  7. The New Cambridge Modern/Medieval History
+  8. Critique of Pure Reason by Kant
+  9. very short introduction - logic by Graham Priest 
+  10. 50 Concepts for a Critical Phenomenology
   ```
 ### Already Read
   ```
