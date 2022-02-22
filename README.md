@@ -1,4 +1,4 @@
-# Readings
+# English Reading Scheduler
 ### Reading
   ```
   1. 1776 by David McCullough
