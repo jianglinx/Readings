@@ -14,6 +14,7 @@
   6. very short introduction - logic by Graham Priest
   7. The Seed And The Sow
   8. Biography of Hugh Grant
+  9. The Second Sex by Beauvoir
   ```
 ### Already Read
   ```
