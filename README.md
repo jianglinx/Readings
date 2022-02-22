@@ -1,11 +1,18 @@
 # Readings
-### already read
-
-### to read
+## Reading
 #### 《1776》by David McCullough
-### in store
-#### 《Eye of Hurricane - an autobiography of Richard Bellman》
+
+## Already Read
+
+## To Read
 #### 《Maurice》by Forster EM
-#### papers
+#### 《The Stranger》
+#### 《Word Power Made Easy》
+#### 《The New Cambridge Modern/Medieval History》
+#### 《Critique of Pure Reason》 by Kant
+
+## Unscheduled
+#### 《Eye of Hurricane - an autobiography of Richard Bellman》
+#### 《papers》
 
 
