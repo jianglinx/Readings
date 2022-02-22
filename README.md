@@ -12,6 +12,7 @@
 #### 《Critique of Pure Reason》 by Kant
 #### 《very short introduction - logic》
 #### 《简明逻辑学》
+#### 《The Seed And The Sow》
 
 ## Unscheduled
 #### 《Eye of Hurricane - an autobiography of Richard Bellman》
