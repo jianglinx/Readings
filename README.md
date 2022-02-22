@@ -4,10 +4,6 @@
   1. 1776 by David McCullough
   ```
 
-### Already Read
-  ```
-  ```
-
 ### To Read
   ```
   1. Maurice by Forster EM
@@ -18,6 +14,9 @@
   6. very short introduction - logic by Graham Priest
   7. The Seed And The Sow
   8. Biography of Hugh Grant
+  ```
+### Already Read
+  ```
   ```
 
 ### Unscheduled
