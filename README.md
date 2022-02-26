@@ -12,7 +12,8 @@
   3. Introduction to Information Retrieval
   4. Operations research
   5. GEB
-  6. Database Modeling and Design     https://www.sciencedirect.com/science/article/pii/B9780123820204000045
+  6. Database Modeling and Design
+  https://www.sciencedirect.com/science/article/pii/B9780123820204000045
   ```
 #### non CS
   ```
